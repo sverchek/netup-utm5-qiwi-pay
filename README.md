@@ -1,4 +1,4 @@
-# netup-utm5-qiwi-pay
+# netup utm5 qiwi pay
 Скрипт для приема оплат через  qiwi (терминал и кошелек) для биллинга NetUP UTM5<br><br>
 Для работы понадобится веб сервер (nginx/apache+php), и выпустить самоподписанный сертификат<br>
 статья (https://1cloud.ru/help/linux/sozdanie_ssl_sertifikata_dlja_apache_ubuntu) (сертификат требование qiwi).<br><br>
